@@ -1,0 +1,10 @@
+.main{
+  width: 800px;
+  min-height: 600px;
+  background: grey;
+  float: left;
+}
+
+.header{
+  color: red!important;
+}

@@ -1,0 +1,6 @@
+.square{
+    width: 150px;
+    min-height: 150px;
+    background: greenyellow;
+    float: left;
+}

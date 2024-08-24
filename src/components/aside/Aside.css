@@ -1,0 +1,6 @@
+.aside{
+    width: 150px;
+    min-height: 400px;
+    background: blue;
+    float: left;
+}
