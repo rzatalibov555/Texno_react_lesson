@@ -1,4 +1,4 @@
-.main{
+/* .main{
   width: 800px;
   min-height: 600px;
   background: grey;
@@ -7,4 +7,31 @@
 
 .header{
   color: red!important;
+} */
+
+
+.whoAmI{
+  width: 100%;
+  min-height: 50px;
+  background: purple;
+  color: white;
+  margin: 5px;
+  /* float: left; */
+}
+
+.mainDesign{
+  width: 100%;
+  min-height: 500px;
+  background: lightgray;
+  float: left;
+  padding: 20px 50px;
+  box-sizing: border-box;
+  /* display: flex;
+  align-items: center;
+  justify-content: center; */
+}
+
+.social_media_ul{
+  padding: 0;
+  margin: 0;
 }

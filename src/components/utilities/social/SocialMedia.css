@@ -1,0 +1,5 @@
+.social_media_ul li{
+    list-style-type: none;
+    float: left;
+    margin: 5px;
+}
